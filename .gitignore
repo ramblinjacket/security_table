@@ -105,3 +105,5 @@ dist
 
 # TernJS port file
 .tern-port
+dev_security_table.csv
+prod_security_table.csv

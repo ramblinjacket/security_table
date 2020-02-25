@@ -1,89 +1,80 @@
 {
 	"Group": [
 			{
-					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_FD",
-					"GUID": "4da5bc63-76db-41bc-bd09-8c0805103366"
-			},
-			{
-					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_HC",
-					"GUID": "e2f46838-616c-4868-9bbd-7ebc57e6615c"
-			},
-			{
-					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_PC",
-					"GUID": "ca2b5093-a2ac-43d8-bb14-e18ed7e24be1"
+					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_SC",
+					"AD_GUID": "fe3f5851-3d2a-4e69-8b4c-9475e4a3c99a",
+					"AR_Group_GUID": "649b014c-474e-40cc-b4a9-6a013d008046"
 			},
 			{
 					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_RF",
-					"GUID": "09648d45-64b2-416d-9b5b-9bc1425edfd5"
+					"AD_GUID": "725dbe68-371a-4889-a8fa-8638b38b22c6",
+					"AR_Group_GUID": "09648d45-64b2-416d-9b5b-9bc1425edfd5"
 			},
 			{
-					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_BOARD",
-					"GUID": "99d6d188-94d0-4b7e-8fc1-94efc71fcc41"
-			},
-			{
-					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_BIT",
-					"GUID": "34880bb0-a19e-43c0-8e10-fd89171992c5"
-			},
-			{
-					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_CD",
-					"GUID": "acef3ddb-9801-4a35-8f75-f546a1b76939"
-			},
-			{
-					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_FINANCE",
-					"GUID": "62487ce0-debd-4bc7-85a9-fcc9cbc96b53"
+					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_PC",
+					"AD_GUID": "cec5660f-31a7-4a02-b6e6-537878d16ba8",
+					"AR_Group_GUID": "ca2b5093-a2ac-43d8-bb14-e18ed7e24be1"
 			},
 			{
 					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_MEDIA",
-					"GUID": "0765d90e-5809-4a0a-9ecb-ac71a5e18f3b"
+					"AD_GUID": "8ecd3688-9336-4d24-8dfe-89710c76a765",
+					"AR_Group_GUID": "0765d90e-5809-4a0a-9ecb-ac71a5e18f3b"
+			},
+			{
+					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_HC",
+					"AD_GUID": "efcc6391-fa4c-4715-882d-11af2fabb35b",
+					"AR_Group_GUID": "e2f46838-616c-4868-9bbd-7ebc57e6615c"
+			},
+			{
+					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_FD",
+					"AD_GUID": "7331921c-0777-475c-89c9-70e6d85a1b2d",
+					"AR_Group_GUID": "4da5bc63-76db-41bc-bd09-8c0805103366"
 			},
 			{
 					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_CMI",
-					"GUID": "4497c3d9-b1af-49ca-976c-c69cf543a79c"
+					"AD_GUID": "d452c835-3458-4c4a-9ef9-61ce47609b15",
+					"AR_Group_GUID": "4497c3d9-b1af-49ca-976c-c69cf543a79c"
 			},
 			{
-					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_SC",
-					"GUID": "649b014c-474e-40cc-b4a9-6a013d008046"
+					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_CD",
+					"AD_GUID": "625f7120-a193-4aca-a582-4c9e8620f973",
+					"AR_Group_GUID": "acef3ddb-9801-4a35-8f75-f546a1b76939"
 			},
 			{
-					"AD_Group_Name": "MBI_IDN_U_CD_CEJ_ALL",
-					"GUID": "3e05d988-2dbd-464b-a96d-eb6f62e44db2"
+					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_BIT",
+					"AD_GUID": "665e3927-4f8c-47f0-bfab-3ea07f4b74d5",
+					"AR_Group_GUID": "34880bb0-a19e-43c0-8e10-fd89171992c5"
 			},
 			{
-					"AD_Group_Name": "MBI_IDN_U_CD_WEST_ALL",
-					"GUID": "d595d791-7112-4ef6-a5c0-bffb730267ab"
+					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_ALL",
+					"AD_GUID": "aa37d1cd-b067-4ad4-a884-8e38fd7f2389",
+					"AR_Group_GUID": "698af0fd-f924-4168-897b-e15efbf8ac5f"
 			},
 			{
-					"AD_Group_Name": "MBI_IDN_U_CD_WESTJAVA_ALL",
-					"GUID": "d63c6a4f-6053-464c-b79f-51822444831b"
+					"AD_Group_Name": "Product_Livewire",
+					"AD_GUID": "8ea51fd0-a251-4810-87ec-4c9c2be9b40a",
+					"AR_Group_GUID": "e24c972a-744b-435a-9de7-369fa86445e9"
 			},
 			{
-					"AD_Group_Name": "MBI_IDN_U_CD_EASTERNINDONESIA_ALL",
-					"GUID": "5d397eeb-8956-41c9-adfe-4bae3986d5c0"
+					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_MT",
+					"AD_GUID": "9bc1f765-7263-4adc-ab8d-0427f5b17959",
+					"AR_Group_GUID": "541915ff-662d-428a-90b4-1b92538af443"
 			},
 			{
-					"AD_Group_Name": "MBI_IDN_U_CD_KALIMANTAN_ALL",
-					"GUID": "311295e1-26e9-406b-b88a-77e48d6ae7e0"
+					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_GT",
+					"AD_GUID": "b61228e4-376e-4d94-a533-80f380bce95a",
+					"AR_Group_GUID": "f330470d-c06f-47fd-8c35-a373a2faa614"
 			},
 			{
-					"AD_Group_Name": "MBI_IDN_U_CD_NSMIC_ALL",
-					"GUID": "73830958-dd84-4924-9e18-c1387291e000"
-			},
-			{
-					"AD_Group_Name": "MBI_IDN_U_CDM_HYPERRTM_ALL",
-					"GUID": "00fefc2b-42e0-4db0-a804-4d58e03d8f16"
-			},
-			{
-					"AD_Group_Name": "MBI_IDN_U_CDM_MINIS_ALL",
-					"GUID": "bf69bc64-009a-4daf-8181-02378565ad22"
-			},
-			{
-					"AD_Group_Name": "MBI_IDN_U_CDM_MTI_ALL",
-					"GUID": "90dfe0fc-f508-45d2-856b-bde9e4c27035"
+					"AD_Group_Name": "MBI_IDN_U_LIVEWIRE_BOARD",
+					"AD_GUID": "3a20ccee-0344-4f0a-a173-f9fd95318d18",
+					"AR_Group_GUID": "99d6d188-94d0-4b7e-8fc1-94efc71fcc41"
 			}
 	],
 	"Class": [
 			{
 					"Table": "fct_rpt_mwa_cmi_ar",
+					"Product_Livewire": "fct_rpt_mwa_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_rpt_mwa_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_rpt_mwa_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_rpt_mwa_cmi_ar",
@@ -91,20 +82,11 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_rpt_mwa_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_BIT": "fct_rpt_mwa_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_CD": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_LIVEWIRE_CMI": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_CD_CEJ_ALL": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_CD_WEST_ALL": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_CD_NSMIC_ALL": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_CDM_MINIS_ALL": "fct_rpt_mwa_cmi_ar",
-					"MBI_IDN_U_CDM_MTI_ALL": "fct_rpt_mwa_cmi_ar"
+					"MBI_IDN_U_LIVEWIRE_CMI": "fct_rpt_mwa_cmi_ar"
 			},
 			{
 					"Table": "fct_nlsn_cmi_ar",
+					"Product_Livewire": "fct_nlsn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_nlsn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_nlsn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_nlsn_cmi_ar",
@@ -112,20 +94,11 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_nlsn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_BIT": "fct_nlsn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_CD": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_LIVEWIRE_CMI": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_CD_CEJ_ALL": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_CD_WEST_ALL": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_CD_NSMIC_ALL": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_CDM_MINIS_ALL": "fct_nlsn_cmi_ar",
-					"MBI_IDN_U_CDM_MTI_ALL": "fct_nlsn_cmi_ar"
+					"MBI_IDN_U_LIVEWIRE_CMI": "fct_nlsn_cmi_ar"
 			},
 			{
 					"Table": "fct_mlwrd_brwn_cmi_ar",
+					"Product_Livewire": "fct_mlwrd_brwn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_mlwrd_brwn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_mlwrd_brwn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_mlwrd_brwn_cmi_ar",
@@ -133,20 +106,11 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_mlwrd_brwn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_BIT": "fct_mlwrd_brwn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_CD": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_LIVEWIRE_CMI": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_CD_CEJ_ALL": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_CD_WEST_ALL": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_CD_NSMIC_ALL": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_CDM_MINIS_ALL": "fct_mlwrd_brwn_cmi_ar",
-					"MBI_IDN_U_CDM_MTI_ALL": "fct_mlwrd_brwn_cmi_ar"
+					"MBI_IDN_U_LIVEWIRE_CMI": "fct_mlwrd_brwn_cmi_ar"
 			},
 			{
 					"Table": "fct_kantar_cmi_ar",
+					"Product_Livewire": "fct_kantar_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_kantar_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_kantar_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_kantar_cmi_ar",
@@ -154,148 +118,101 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_kantar_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_BIT": "fct_kantar_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_CD": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_LIVEWIRE_CMI": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_CD_CEJ_ALL": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_CD_WEST_ALL": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_CD_NSMIC_ALL": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_CDM_MINIS_ALL": "fct_kantar_cmi_ar",
-					"MBI_IDN_U_CDM_MTI_ALL": "fct_kantar_cmi_ar"
+					"MBI_IDN_U_LIVEWIRE_CMI": "fct_kantar_cmi_ar"
 			},
 			{
 					"Table": "fct_sec_stk_cd_dsr_ar",
+					"Product_Livewire": "fct_sec_stk_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_sec_stk_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_sec_stk_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_sec_stk_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_RF": "fct_sec_stk_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_sec_stk_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_BIT": "fct_sec_stk_cd_dsr_ar",
-					"MBI_IDN_U_LIVEWIRE_CD": "fct_sec_stk_cd_dsr_ar",
-					"MBI_IDN_U_CD_CEJ_ALL": "fct_sec_stk_cd_dsr_ar",
-					"MBI_IDN_U_CD_WEST_ALL": "fct_sec_stk_cd_dsr_ar",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "fct_sec_stk_cd_dsr_ar",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "fct_sec_stk_cd_dsr_ar",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "fct_sec_stk_cd_dsr_ar",
-					"MBI_IDN_U_CD_NSMIC_ALL": "fct_sec_stk_cd_dsr_ar",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "fct_sec_stk_cd_dsr_ar",
-					"MBI_IDN_U_CDM_MINIS_ALL": "fct_sec_stk_cd_dsr_ar",
-					"MBI_IDN_U_CDM_MTI_ALL": "fct_sec_stk_cd_dsr_ar"
+					"MBI_IDN_U_LIVEWIRE_CD": "fct_sec_stk_cd_dsr_ar"
 			},
 			{
 					"Table": "fct_tgt_fin_meas_cd_dsr_ar",
+					"Product_Livewire": "fct_tgt_fin_meas_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_tgt_fin_meas_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_tgt_fin_meas_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_tgt_fin_meas_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_RF": "fct_tgt_fin_meas_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_tgt_fin_meas_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_BIT": "fct_tgt_fin_meas_cd_dsr_ar",
-					"MBI_IDN_U_LIVEWIRE_CD": "fct_tgt_fin_meas_cd_dsr_ar",
-					"MBI_IDN_U_CD_CEJ_ALL": "fct_tgt_fin_meas_cd_dsr_ar",
-					"MBI_IDN_U_CD_WEST_ALL": "fct_tgt_fin_meas_cd_dsr_ar",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "fct_tgt_fin_meas_cd_dsr_ar",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "fct_tgt_fin_meas_cd_dsr_ar",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "fct_tgt_fin_meas_cd_dsr_ar",
-					"MBI_IDN_U_CD_NSMIC_ALL": "fct_tgt_fin_meas_cd_dsr_ar",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "fct_tgt_fin_meas_cd_dsr_ar",
-					"MBI_IDN_U_CDM_MINIS_ALL": "fct_tgt_fin_meas_cd_dsr_ar",
-					"MBI_IDN_U_CDM_MTI_ALL": "fct_tgt_fin_meas_cd_dsr_ar"
+					"MBI_IDN_U_LIVEWIRE_CD": "fct_tgt_fin_meas_cd_dsr_ar"
 			},
 			{
 					"Table": "fct_prim_sls_cd_dsr_ar",
+					"Product_Livewire": "fct_prim_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_prim_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_prim_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_prim_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_RF": "fct_prim_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_prim_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_BIT": "fct_prim_sls_cd_dsr_ar",
-					"MBI_IDN_U_LIVEWIRE_CD": "fct_prim_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_CEJ_ALL": "fct_prim_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_WEST_ALL": "fct_prim_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "fct_prim_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "fct_prim_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "fct_prim_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_NSMIC_ALL": "fct_prim_sls_cd_dsr_ar",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "fct_prim_sls_cd_dsr_ar",
-					"MBI_IDN_U_CDM_MINIS_ALL": "fct_prim_sls_cd_dsr_ar",
-					"MBI_IDN_U_CDM_MTI_ALL": "fct_prim_sls_cd_dsr_ar"
+					"MBI_IDN_U_LIVEWIRE_CD": "fct_prim_sls_cd_dsr_ar"
 			},
 			{
 					"Table": "fct_delv_tran_cd_dsr_ar",
+					"Product_Livewire": "fct_delv_tran_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_delv_tran_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_delv_tran_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_delv_tran_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_RF": "fct_delv_tran_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_delv_tran_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_BIT": "fct_delv_tran_cd_dsr_ar",
-					"MBI_IDN_U_LIVEWIRE_CD": "fct_delv_tran_cd_dsr_ar",
-					"MBI_IDN_U_CD_CEJ_ALL": "fct_delv_tran_cd_dsr_ar",
-					"MBI_IDN_U_CD_WEST_ALL": "fct_delv_tran_cd_dsr_ar",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "fct_delv_tran_cd_dsr_ar",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "fct_delv_tran_cd_dsr_ar",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "fct_delv_tran_cd_dsr_ar",
-					"MBI_IDN_U_CD_NSMIC_ALL": "fct_delv_tran_cd_dsr_ar",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "fct_delv_tran_cd_dsr_ar",
-					"MBI_IDN_U_CDM_MINIS_ALL": "fct_delv_tran_cd_dsr_ar",
-					"MBI_IDN_U_CDM_MTI_ALL": "fct_delv_tran_cd_dsr_ar"
+					"MBI_IDN_U_LIVEWIRE_CD": "fct_delv_tran_cd_dsr_ar"
 			},
 			{
 					"Table": "fct_sec_sls_cd_dsr_ar",
+					"Product_Livewire": "fct_sec_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_sec_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_sec_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_sec_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_RF": "fct_sec_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_sec_sls_cd_dsr_ar",
 					"MBI_IDN_U_LIVEWIRE_BIT": "fct_sec_sls_cd_dsr_ar",
-					"MBI_IDN_U_LIVEWIRE_CD": "fct_sec_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_CEJ_ALL": "fct_sec_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_WEST_ALL": "fct_sec_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "fct_sec_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "fct_sec_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "fct_sec_sls_cd_dsr_ar",
-					"MBI_IDN_U_CD_NSMIC_ALL": "fct_sec_sls_cd_dsr_ar",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "fct_sec_sls_cd_dsr_ar",
-					"MBI_IDN_U_CDM_MINIS_ALL": "fct_sec_sls_cd_dsr_ar",
-					"MBI_IDN_U_CDM_MTI_ALL": "fct_sec_sls_cd_dsr_ar"
+					"MBI_IDN_U_LIVEWIRE_CD": "fct_sec_sls_cd_dsr_ar"
 			},
 			{
 					"Table": "fct_prft_anal_tran_bp_ar",
+					"Product_Livewire": "fct_prft_anal_tran_bp_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_prft_anal_tran_bp_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_prft_anal_tran_bp_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_prft_anal_tran_bp_ar",
 					"MBI_IDN_U_LIVEWIRE_RF": "fct_prft_anal_tran_bp_ar",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_prft_anal_tran_bp_ar",
-					"MBI_IDN_U_LIVEWIRE_BIT": "fct_prft_anal_tran_bp_ar",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "fct_prft_anal_tran_bp_ar"
+					"MBI_IDN_U_LIVEWIRE_BIT": "fct_prft_anal_tran_bp_ar"
 			},
 			{
 					"Table": "fct_gcu_fcst_kpi_flat_bp_ar",
+					"Product_Livewire": "fct_gcu_fcst_kpi_flat_bp_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_gcu_fcst_kpi_flat_bp_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_gcu_fcst_kpi_flat_bp_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_gcu_fcst_kpi_flat_bp_ar",
 					"MBI_IDN_U_LIVEWIRE_RF": "fct_gcu_fcst_kpi_flat_bp_ar",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_gcu_fcst_kpi_flat_bp_ar",
-					"MBI_IDN_U_LIVEWIRE_BIT": "fct_gcu_fcst_kpi_flat_bp_ar",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "fct_gcu_fcst_kpi_flat_bp_ar"
+					"MBI_IDN_U_LIVEWIRE_BIT": "fct_gcu_fcst_kpi_flat_bp_ar"
 			},
 			{
 					"Table": "fct_rpt_data_cs_snop_ar",
+					"Product_Livewire": "fct_rpt_data_cs_snop_ar",
+					"MBI_IDN_U_LIVEWIRE_SC": "fct_rpt_data_cs_snop_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_rpt_data_cs_snop_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_rpt_data_cs_snop_ar",
 					"MBI_IDN_U_LIVEWIRE_PC": "fct_rpt_data_cs_snop_ar",
 					"MBI_IDN_U_LIVEWIRE_RF": "fct_rpt_data_cs_snop_ar",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "fct_rpt_data_cs_snop_ar",
-					"MBI_IDN_U_LIVEWIRE_BIT": "fct_rpt_data_cs_snop_ar",
-					"MBI_IDN_U_LIVEWIRE_SC": "fct_rpt_data_cs_snop_ar"
+					"MBI_IDN_U_LIVEWIRE_BIT": "fct_rpt_data_cs_snop_ar"
 			}
 	],
 	"Dimension": [
 			{
-					"Field": "report_region_description",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_region_description",
 					"Value": "RSM CENTRAL & EAST J",
+					"Product_Livewire": "RSM CENTRAL & EAST J",
+					"MBI_IDN_U_LIVEWIRE_SC": "RSM CENTRAL & EAST J",
 					"MBI_IDN_U_LIVEWIRE_FD": "RSM CENTRAL & EAST J",
 					"MBI_IDN_U_LIVEWIRE_HC": "RSM CENTRAL & EAST J",
 					"MBI_IDN_U_LIVEWIRE_PC": "RSM CENTRAL & EAST J",
@@ -303,15 +220,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "RSM CENTRAL & EAST J",
 					"MBI_IDN_U_LIVEWIRE_BIT": "RSM CENTRAL & EAST J",
 					"MBI_IDN_U_LIVEWIRE_CD": "RSM CENTRAL & EAST J",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "RSM CENTRAL & EAST J",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "RSM CENTRAL & EAST J",
-					"MBI_IDN_U_LIVEWIRE_CMI": "RSM CENTRAL & EAST J",
-					"MBI_IDN_U_LIVEWIRE_SC": "RSM CENTRAL & EAST J",
-					"MBI_IDN_U_CD_CEJ_ALL": "RSM CENTRAL & EAST J"
+					"MBI_IDN_U_LIVEWIRE_CMI": "RSM CENTRAL & EAST J"
 			},
 			{
-					"Field": "report_region_description",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_region_description",
 					"Value": "RSM WEST",
+					"Product_Livewire": "RSM WEST",
+					"MBI_IDN_U_LIVEWIRE_SC": "RSM WEST",
 					"MBI_IDN_U_LIVEWIRE_FD": "RSM WEST",
 					"MBI_IDN_U_LIVEWIRE_HC": "RSM WEST",
 					"MBI_IDN_U_LIVEWIRE_PC": "RSM WEST",
@@ -319,15 +235,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "RSM WEST",
 					"MBI_IDN_U_LIVEWIRE_BIT": "RSM WEST",
 					"MBI_IDN_U_LIVEWIRE_CD": "RSM WEST",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "RSM WEST",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "RSM WEST",
-					"MBI_IDN_U_LIVEWIRE_CMI": "RSM WEST",
-					"MBI_IDN_U_LIVEWIRE_SC": "RSM WEST",
-					"MBI_IDN_U_CD_WEST_ALL": "RSM WEST"
+					"MBI_IDN_U_LIVEWIRE_CMI": "RSM WEST"
 			},
 			{
-					"Field": "report_region_description",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_region_description",
 					"Value": "RSM WESTERN JAVA",
+					"Product_Livewire": "RSM WESTERN JAVA",
+					"MBI_IDN_U_LIVEWIRE_SC": "RSM WESTERN JAVA",
 					"MBI_IDN_U_LIVEWIRE_FD": "RSM WESTERN JAVA",
 					"MBI_IDN_U_LIVEWIRE_HC": "RSM WESTERN JAVA",
 					"MBI_IDN_U_LIVEWIRE_PC": "RSM WESTERN JAVA",
@@ -335,15 +250,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "RSM WESTERN JAVA",
 					"MBI_IDN_U_LIVEWIRE_BIT": "RSM WESTERN JAVA",
 					"MBI_IDN_U_LIVEWIRE_CD": "RSM WESTERN JAVA",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "RSM WESTERN JAVA",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "RSM WESTERN JAVA",
-					"MBI_IDN_U_LIVEWIRE_CMI": "RSM WESTERN JAVA",
-					"MBI_IDN_U_LIVEWIRE_SC": "RSM WESTERN JAVA",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "RSM WESTERN JAVA"
+					"MBI_IDN_U_LIVEWIRE_CMI": "RSM WESTERN JAVA"
 			},
 			{
-					"Field": "report_region_description",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_region_description",
 					"Value": "RSM EASTERN INDONESI",
+					"Product_Livewire": "RSM EASTERN INDONESI",
+					"MBI_IDN_U_LIVEWIRE_SC": "RSM EASTERN INDONESI",
 					"MBI_IDN_U_LIVEWIRE_FD": "RSM EASTERN INDONESI",
 					"MBI_IDN_U_LIVEWIRE_HC": "RSM EASTERN INDONESI",
 					"MBI_IDN_U_LIVEWIRE_PC": "RSM EASTERN INDONESI",
@@ -351,15 +265,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "RSM EASTERN INDONESI",
 					"MBI_IDN_U_LIVEWIRE_BIT": "RSM EASTERN INDONESI",
 					"MBI_IDN_U_LIVEWIRE_CD": "RSM EASTERN INDONESI",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "RSM EASTERN INDONESI",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "RSM EASTERN INDONESI",
-					"MBI_IDN_U_LIVEWIRE_CMI": "RSM EASTERN INDONESI",
-					"MBI_IDN_U_LIVEWIRE_SC": "RSM EASTERN INDONESI",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "RSM EASTERN INDONESI"
+					"MBI_IDN_U_LIVEWIRE_CMI": "RSM EASTERN INDONESI"
 			},
 			{
-					"Field": "report_region_description",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_region_description",
 					"Value": "RSM KALIMANTAN",
+					"Product_Livewire": "RSM KALIMANTAN",
+					"MBI_IDN_U_LIVEWIRE_SC": "RSM KALIMANTAN",
 					"MBI_IDN_U_LIVEWIRE_FD": "RSM KALIMANTAN",
 					"MBI_IDN_U_LIVEWIRE_HC": "RSM KALIMANTAN",
 					"MBI_IDN_U_LIVEWIRE_PC": "RSM KALIMANTAN",
@@ -367,15 +280,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "RSM KALIMANTAN",
 					"MBI_IDN_U_LIVEWIRE_BIT": "RSM KALIMANTAN",
 					"MBI_IDN_U_LIVEWIRE_CD": "RSM KALIMANTAN",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "RSM KALIMANTAN",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "RSM KALIMANTAN",
-					"MBI_IDN_U_LIVEWIRE_CMI": "RSM KALIMANTAN",
-					"MBI_IDN_U_LIVEWIRE_SC": "RSM KALIMANTAN",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "RSM KALIMANTAN"
+					"MBI_IDN_U_LIVEWIRE_CMI": "RSM KALIMANTAN"
 			},
 			{
-					"Field": "report_region_description",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_region_description",
 					"Value": "RSM NATIONAL IC",
+					"Product_Livewire": "RSM NATIONAL IC",
+					"MBI_IDN_U_LIVEWIRE_SC": "RSM NATIONAL IC",
 					"MBI_IDN_U_LIVEWIRE_FD": "RSM NATIONAL IC",
 					"MBI_IDN_U_LIVEWIRE_HC": "RSM NATIONAL IC",
 					"MBI_IDN_U_LIVEWIRE_PC": "RSM NATIONAL IC",
@@ -383,15 +295,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "RSM NATIONAL IC",
 					"MBI_IDN_U_LIVEWIRE_BIT": "RSM NATIONAL IC",
 					"MBI_IDN_U_LIVEWIRE_CD": "RSM NATIONAL IC",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "RSM NATIONAL IC",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "RSM NATIONAL IC",
-					"MBI_IDN_U_LIVEWIRE_CMI": "RSM NATIONAL IC",
-					"MBI_IDN_U_LIVEWIRE_SC": "RSM NATIONAL IC",
-					"MBI_IDN_U_CD_NSMIC_ALL": "RSM NATIONAL IC"
+					"MBI_IDN_U_LIVEWIRE_CMI": "RSM NATIONAL IC"
 			},
 			{
-					"Field": "report_region_description",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_region_description",
 					"Value": "CDM HYPER & RTM",
+					"Product_Livewire": "CDM HYPER & RTM",
+					"MBI_IDN_U_LIVEWIRE_SC": "CDM HYPER & RTM",
 					"MBI_IDN_U_LIVEWIRE_FD": "CDM HYPER & RTM",
 					"MBI_IDN_U_LIVEWIRE_HC": "CDM HYPER & RTM",
 					"MBI_IDN_U_LIVEWIRE_PC": "CDM HYPER & RTM",
@@ -399,15 +310,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "CDM HYPER & RTM",
 					"MBI_IDN_U_LIVEWIRE_BIT": "CDM HYPER & RTM",
 					"MBI_IDN_U_LIVEWIRE_CD": "CDM HYPER & RTM",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "CDM HYPER & RTM",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "CDM HYPER & RTM",
-					"MBI_IDN_U_LIVEWIRE_CMI": "CDM HYPER & RTM",
-					"MBI_IDN_U_LIVEWIRE_SC": "CDM HYPER & RTM",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "CDM HYPER & RTM"
+					"MBI_IDN_U_LIVEWIRE_CMI": "CDM HYPER & RTM"
 			},
 			{
-					"Field": "report_region_description",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_region_description",
 					"Value": "CDM MINI MARKET/SPEC",
+					"Product_Livewire": "CDM MINI MARKET/SPEC",
+					"MBI_IDN_U_LIVEWIRE_SC": "CDM MINI MARKET/SPEC",
 					"MBI_IDN_U_LIVEWIRE_FD": "CDM MINI MARKET/SPEC",
 					"MBI_IDN_U_LIVEWIRE_HC": "CDM MINI MARKET/SPEC",
 					"MBI_IDN_U_LIVEWIRE_PC": "CDM MINI MARKET/SPEC",
@@ -415,15 +325,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "CDM MINI MARKET/SPEC",
 					"MBI_IDN_U_LIVEWIRE_BIT": "CDM MINI MARKET/SPEC",
 					"MBI_IDN_U_LIVEWIRE_CD": "CDM MINI MARKET/SPEC",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "CDM MINI MARKET/SPEC",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "CDM MINI MARKET/SPEC",
-					"MBI_IDN_U_LIVEWIRE_CMI": "CDM MINI MARKET/SPEC",
-					"MBI_IDN_U_LIVEWIRE_SC": "CDM MINI MARKET/SPEC",
-					"MBI_IDN_U_CDM_MINIS_ALL": "CDM MINI MARKET/SPEC"
+					"MBI_IDN_U_LIVEWIRE_CMI": "CDM MINI MARKET/SPEC"
 			},
 			{
-					"Field": "report_channel_code",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_channel_code",
 					"Value": "IC",
+					"Product_Livewire": "IC",
+					"MBI_IDN_U_LIVEWIRE_SC": "IC",
 					"MBI_IDN_U_LIVEWIRE_FD": "IC",
 					"MBI_IDN_U_LIVEWIRE_HC": "IC",
 					"MBI_IDN_U_LIVEWIRE_PC": "IC",
@@ -431,23 +340,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "IC",
 					"MBI_IDN_U_LIVEWIRE_BIT": "IC",
 					"MBI_IDN_U_LIVEWIRE_CD": "IC",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "IC",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "IC",
-					"MBI_IDN_U_LIVEWIRE_CMI": "IC",
-					"MBI_IDN_U_LIVEWIRE_SC": "IC",
-					"MBI_IDN_U_CD_CEJ_ALL": "IC",
-					"MBI_IDN_U_CD_WEST_ALL": "IC",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "IC",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "IC",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "IC",
-					"MBI_IDN_U_CD_NSMIC_ALL": "IC",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "IC",
-					"MBI_IDN_U_CDM_MINIS_ALL": "IC",
-					"MBI_IDN_U_CDM_MTI_ALL": "IC"
+					"MBI_IDN_U_LIVEWIRE_CMI": "IC"
 			},
 			{
-					"Field": "report_channel_code",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_channel_code",
 					"Value": "MT",
+					"Product_Livewire": "MT",
+					"MBI_IDN_U_LIVEWIRE_SC": "MT",
 					"MBI_IDN_U_LIVEWIRE_FD": "MT",
 					"MBI_IDN_U_LIVEWIRE_HC": "MT",
 					"MBI_IDN_U_LIVEWIRE_PC": "MT",
@@ -455,23 +355,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "MT",
 					"MBI_IDN_U_LIVEWIRE_BIT": "MT",
 					"MBI_IDN_U_LIVEWIRE_CD": "MT",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "MT",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "MT",
-					"MBI_IDN_U_LIVEWIRE_CMI": "MT",
-					"MBI_IDN_U_LIVEWIRE_SC": "MT",
-					"MBI_IDN_U_CD_CEJ_ALL": "MT",
-					"MBI_IDN_U_CD_WEST_ALL": "MT",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "MT",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "MT",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "MT",
-					"MBI_IDN_U_CD_NSMIC_ALL": "MT",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "MT",
-					"MBI_IDN_U_CDM_MINIS_ALL": "MT",
-					"MBI_IDN_U_CDM_MTI_ALL": "MT"
+					"MBI_IDN_U_LIVEWIRE_CMI": "MT"
 			},
 			{
-					"Field": "report_channel_code",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_channel_code",
 					"Value": "Channel others",
+					"Product_Livewire": "Channel others",
+					"MBI_IDN_U_LIVEWIRE_SC": "Channel others",
 					"MBI_IDN_U_LIVEWIRE_FD": "Channel others",
 					"MBI_IDN_U_LIVEWIRE_HC": "Channel others",
 					"MBI_IDN_U_LIVEWIRE_PC": "Channel others",
@@ -479,23 +370,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "Channel others",
 					"MBI_IDN_U_LIVEWIRE_BIT": "Channel others",
 					"MBI_IDN_U_LIVEWIRE_CD": "Channel others",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "Channel others",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "Channel others",
-					"MBI_IDN_U_LIVEWIRE_CMI": "Channel others",
-					"MBI_IDN_U_LIVEWIRE_SC": "Channel others",
-					"MBI_IDN_U_CD_CEJ_ALL": "Channel others",
-					"MBI_IDN_U_CD_WEST_ALL": "Channel others",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "Channel others",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "Channel others",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "Channel others",
-					"MBI_IDN_U_CD_NSMIC_ALL": "Channel others",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "Channel others",
-					"MBI_IDN_U_CDM_MINIS_ALL": "Channel others",
-					"MBI_IDN_U_CDM_MTI_ALL": "Channel others"
+					"MBI_IDN_U_LIVEWIRE_CMI": "Channel others"
 			},
 			{
-					"Field": "report_channel_code",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_channel_code",
 					"Value": "Ecommerce",
+					"Product_Livewire": "Ecommerce",
+					"MBI_IDN_U_LIVEWIRE_SC": "Ecommerce",
 					"MBI_IDN_U_LIVEWIRE_FD": "Ecommerce",
 					"MBI_IDN_U_LIVEWIRE_HC": "Ecommerce",
 					"MBI_IDN_U_LIVEWIRE_PC": "Ecommerce",
@@ -503,23 +385,14 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "Ecommerce",
 					"MBI_IDN_U_LIVEWIRE_BIT": "Ecommerce",
 					"MBI_IDN_U_LIVEWIRE_CD": "Ecommerce",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "Ecommerce",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "Ecommerce",
-					"MBI_IDN_U_LIVEWIRE_CMI": "Ecommerce",
-					"MBI_IDN_U_LIVEWIRE_SC": "Ecommerce",
-					"MBI_IDN_U_CD_CEJ_ALL": "Ecommerce",
-					"MBI_IDN_U_CD_WEST_ALL": "Ecommerce",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "Ecommerce",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "Ecommerce",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "Ecommerce",
-					"MBI_IDN_U_CD_NSMIC_ALL": "Ecommerce",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "Ecommerce",
-					"MBI_IDN_U_CDM_MINIS_ALL": "Ecommerce",
-					"MBI_IDN_U_CDM_MTI_ALL": "Ecommerce"
+					"MBI_IDN_U_LIVEWIRE_CMI": "Ecommerce"
 			},
 			{
-					"Field": "report_channel_code",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_channel_code",
 					"Value": "DT",
+					"Product_Livewire": "DT",
+					"MBI_IDN_U_LIVEWIRE_SC": "DT",
 					"MBI_IDN_U_LIVEWIRE_FD": "DT",
 					"MBI_IDN_U_LIVEWIRE_HC": "DT",
 					"MBI_IDN_U_LIVEWIRE_PC": "DT",
@@ -527,63 +400,33 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "DT",
 					"MBI_IDN_U_LIVEWIRE_BIT": "DT",
 					"MBI_IDN_U_LIVEWIRE_CD": "DT",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "DT",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "DT",
-					"MBI_IDN_U_LIVEWIRE_CMI": "DT",
-					"MBI_IDN_U_LIVEWIRE_SC": "DT",
-					"MBI_IDN_U_CD_CEJ_ALL": "DT",
-					"MBI_IDN_U_CD_WEST_ALL": "DT",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "DT",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "DT",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "DT",
-					"MBI_IDN_U_CD_NSMIC_ALL": "DT",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "DT",
-					"MBI_IDN_U_CDM_MINIS_ALL": "DT",
-					"MBI_IDN_U_CDM_MTI_ALL": "DT"
+					"MBI_IDN_U_LIVEWIRE_CMI": "DT"
 			},
 			{
-					"Field": "report_channel_code",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_channel_code",
 					"Value": "UFS",
-					"MBI_IDN_U_LIVEWIRE_BOARD": "UFS",
-					"MBI_IDN_U_LIVEWIRE_BIT": "UFS",
-					"MBI_IDN_U_LIVEWIRE_CD": "UFS",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "UFS",
-					"MBI_IDN_U_LIVEWIRE_MEDIA": "UFS",
-					"MBI_IDN_U_LIVEWIRE_CMI": "UFS",
+					"Product_Livewire": "UFS",
 					"MBI_IDN_U_LIVEWIRE_SC": "UFS",
-					"MBI_IDN_U_CD_CEJ_ALL": "UFS",
-					"MBI_IDN_U_CD_WEST_ALL": "UFS",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "UFS",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "UFS",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "UFS",
-					"MBI_IDN_U_CD_NSMIC_ALL": "UFS",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "UFS",
-					"MBI_IDN_U_CDM_MINIS_ALL": "UFS",
-					"MBI_IDN_U_CDM_MTI_ALL": "UFS"
+					"MBI_IDN_U_LIVEWIRE_BIT": "UFS",
+					"MBI_IDN_U_LIVEWIRE_MEDIA": "UFS",
+					"MBI_IDN_U_LIVEWIRE_CMI": "UFS"
 			},
 			{
-					"Field": "report_channel_code",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_channel_code",
 					"Value": "UEI",
+					"Product_Livewire": "UEI",
+					"MBI_IDN_U_LIVEWIRE_SC": "UEI",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "UEI",
 					"MBI_IDN_U_LIVEWIRE_BIT": "UEI",
-					"MBI_IDN_U_LIVEWIRE_CD": "UEI",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "UEI",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "UEI",
-					"MBI_IDN_U_LIVEWIRE_CMI": "UEI",
-					"MBI_IDN_U_LIVEWIRE_SC": "UEI",
-					"MBI_IDN_U_CD_CEJ_ALL": "UEI",
-					"MBI_IDN_U_CD_WEST_ALL": "UEI",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "UEI",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "UEI",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "UEI",
-					"MBI_IDN_U_CD_NSMIC_ALL": "UEI",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "UEI",
-					"MBI_IDN_U_CDM_MINIS_ALL": "UEI",
-					"MBI_IDN_U_CDM_MTI_ALL": "UEI"
+					"MBI_IDN_U_LIVEWIRE_CMI": "UEI"
 			},
 			{
-					"Field": "report_channel_code",
+					"Field": "intrnl_rpt_chnl_geo_ar.report_channel_code",
 					"Value": "ECOM",
+					"Product_Livewire": "ECOM",
+					"MBI_IDN_U_LIVEWIRE_SC": "ECOM",
 					"MBI_IDN_U_LIVEWIRE_FD": "ECOM",
 					"MBI_IDN_U_LIVEWIRE_HC": "ECOM",
 					"MBI_IDN_U_LIVEWIRE_PC": "ECOM",
@@ -591,108 +434,78 @@
 					"MBI_IDN_U_LIVEWIRE_BOARD": "ECOM",
 					"MBI_IDN_U_LIVEWIRE_BIT": "ECOM",
 					"MBI_IDN_U_LIVEWIRE_CD": "ECOM",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "ECOM",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "ECOM",
-					"MBI_IDN_U_LIVEWIRE_CMI": "ECOM",
-					"MBI_IDN_U_LIVEWIRE_SC": "ECOM",
-					"MBI_IDN_U_CD_CEJ_ALL": "ECOM",
-					"MBI_IDN_U_CD_WEST_ALL": "ECOM",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "ECOM",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "ECOM",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "ECOM",
-					"MBI_IDN_U_CD_NSMIC_ALL": "ECOM",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "ECOM",
-					"MBI_IDN_U_CDM_MINIS_ALL": "ECOM",
-					"MBI_IDN_U_CDM_MTI_ALL": "ECOM"
+					"MBI_IDN_U_LIVEWIRE_CMI": "ECOM"
 			},
 			{
-					"Field": "big_c_ar",
+					"Field": "big_c_ar.big_c_ar",
 					"Value": "Foods",
+					"Product_Livewire": "Foods",
+					"MBI_IDN_U_LIVEWIRE_SC": "Foods",
 					"MBI_IDN_U_LIVEWIRE_FD": "Foods",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "Foods",
 					"MBI_IDN_U_LIVEWIRE_BIT": "Foods",
 					"MBI_IDN_U_LIVEWIRE_CD": "Foods",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "Foods",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "Foods",
-					"MBI_IDN_U_CD_CEJ_ALL": "Foods",
-					"MBI_IDN_U_CD_WEST_ALL": "Foods",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "Foods",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "Foods",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "Foods",
-					"MBI_IDN_U_CD_NSMIC_ALL": "Foods",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "Foods",
-					"MBI_IDN_U_CDM_MINIS_ALL": "Foods",
-					"MBI_IDN_U_CDM_MTI_ALL": "Foods"
+					"MBI_IDN_U_LIVEWIRE_CMI": "Foods"
 			},
 			{
-					"Field": "big_c_ar",
-					"Value": "Big C unasg"
+					"Field": "big_c_ar.big_c_ar",
+					"Value": "Big C unasg",
+					"Product_Livewire": "Big C unasg",
+					"MBI_IDN_U_LIVEWIRE_SC": "Big C unasg",
+					"MBI_IDN_U_LIVEWIRE_BOARD": "Big C unasg",
+					"MBI_IDN_U_LIVEWIRE_BIT": "Big C unasg",
+					"MBI_IDN_U_LIVEWIRE_CD": "Big C unasg",
+					"MBI_IDN_U_LIVEWIRE_MEDIA": "Big C unasg",
+					"MBI_IDN_U_LIVEWIRE_CMI": "Big C unasg"
 			},
 			{
-					"Field": "big_c_ar",
+					"Field": "big_c_ar.big_c_ar",
 					"Value": "Home Care",
+					"Product_Livewire": "Home Care",
+					"MBI_IDN_U_LIVEWIRE_SC": "Home Care",
 					"MBI_IDN_U_LIVEWIRE_HC": "Home Care",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "Home Care",
 					"MBI_IDN_U_LIVEWIRE_BIT": "Home Care",
 					"MBI_IDN_U_LIVEWIRE_CD": "Home Care",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "Home Care",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "Home Care",
-					"MBI_IDN_U_CD_CEJ_ALL": "Home Care",
-					"MBI_IDN_U_CD_WEST_ALL": "Home Care",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "Home Care",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "Home Care",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "Home Care",
-					"MBI_IDN_U_CD_NSMIC_ALL": "Home Care",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "Home Care",
-					"MBI_IDN_U_CDM_MINIS_ALL": "Home Care",
-					"MBI_IDN_U_CDM_MTI_ALL": "Home Care"
+					"MBI_IDN_U_LIVEWIRE_CMI": "Home Care"
 			},
 			{
-					"Field": "big_c_ar",
-					"Value": "Spreads"
-			},
-			{
-					"Field": "big_c_ar",
+					"Field": "big_c_ar.big_c_ar",
 					"Value": "Personal Care",
+					"Product_Livewire": "Personal Care",
+					"MBI_IDN_U_LIVEWIRE_SC": "Personal Care",
 					"MBI_IDN_U_LIVEWIRE_PC": "Personal Care",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "Personal Care",
 					"MBI_IDN_U_LIVEWIRE_BIT": "Personal Care",
 					"MBI_IDN_U_LIVEWIRE_CD": "Personal Care",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "Personal Care",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "Personal Care",
-					"MBI_IDN_U_CD_CEJ_ALL": "Personal Care",
-					"MBI_IDN_U_CD_WEST_ALL": "Personal Care",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "Personal Care",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "Personal Care",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "Personal Care",
-					"MBI_IDN_U_CD_NSMIC_ALL": "Personal Care",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "Personal Care",
-					"MBI_IDN_U_CDM_MINIS_ALL": "Personal Care",
-					"MBI_IDN_U_CDM_MTI_ALL": "Personal Care"
+					"MBI_IDN_U_LIVEWIRE_CMI": "Personal Care"
 			},
 			{
-					"Field": "big_c_ar",
-					"Value": "Big C others"
+					"Field": "big_c_ar.big_c_ar",
+					"Value": "Big C others",
+					"Product_Livewire": "Big C others",
+					"MBI_IDN_U_LIVEWIRE_SC": "Big C others",
+					"MBI_IDN_U_LIVEWIRE_BOARD": "Big C others",
+					"MBI_IDN_U_LIVEWIRE_BIT": "Big C others",
+					"MBI_IDN_U_LIVEWIRE_CD": "Big C others",
+					"MBI_IDN_U_LIVEWIRE_MEDIA": "Big C others",
+					"MBI_IDN_U_LIVEWIRE_CMI": "Big C others"
 			},
 			{
-					"Field": "big_c_ar",
+					"Field": "big_c_ar.big_c_ar",
 					"Value": "Refreshment",
-					"MBI_IDN_U_LIVEWIRE_HC": "Refreshment",
+					"Product_Livewire": "Refreshment",
+					"MBI_IDN_U_LIVEWIRE_SC": "Refreshment",
 					"MBI_IDN_U_LIVEWIRE_RF": "Refreshment",
 					"MBI_IDN_U_LIVEWIRE_BOARD": "Refreshment",
 					"MBI_IDN_U_LIVEWIRE_BIT": "Refreshment",
 					"MBI_IDN_U_LIVEWIRE_CD": "Refreshment",
-					"MBI_IDN_U_LIVEWIRE_FINANCE": "Refreshment",
 					"MBI_IDN_U_LIVEWIRE_MEDIA": "Refreshment",
-					"MBI_IDN_U_CD_CEJ_ALL": "Refreshment",
-					"MBI_IDN_U_CD_WEST_ALL": "Refreshment",
-					"MBI_IDN_U_CD_WESTJAVA_ALL": "Refreshment",
-					"MBI_IDN_U_CD_EASTERNINDONESIA_ALL": "Refreshment",
-					"MBI_IDN_U_CD_KALIMANTAN_ALL": "Refreshment",
-					"MBI_IDN_U_CD_NSMIC_ALL": "Refreshment",
-					"MBI_IDN_U_CDM_HYPERRTM_ALL": "Refreshment",
-					"MBI_IDN_U_CDM_MINIS_ALL": "Refreshment",
-					"MBI_IDN_U_CDM_MTI_ALL": "Refreshment"
+					"MBI_IDN_U_LIVEWIRE_CMI": "Refreshment"
 			}
 	]
 }
