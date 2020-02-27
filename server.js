@@ -19,7 +19,7 @@ groups.forEach(group => {
 				if (adGroupName in dimension) {
 					var dimensionField = dimension.Field
 					var dimensionValue = dimension.Value
-					securityTable.push([adGroupName,guid,"",factTable,dimensionField,dimensionValue])
+					securityTable.push([adGroupName,guid,"",factTable,dimensionField,dimensionValue,"","",""])
 				}				
 			});	
 		}

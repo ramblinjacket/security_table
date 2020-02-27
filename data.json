@@ -85,7 +85,7 @@
 					"MBI_IDN_U_LIVEWIRE_CMI": "fct_rpt_mwa_cmi_ar"
 			},
 			{
-					"Table": "fct_nlsn_cmi_ar",
+					"Table": "fct_nlsn_cmi_ar_denorm_ph_view",
 					"Product_Livewire": "fct_nlsn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_nlsn_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_nlsn_cmi_ar",
@@ -109,7 +109,7 @@
 					"MBI_IDN_U_LIVEWIRE_CMI": "fct_mlwrd_brwn_cmi_ar"
 			},
 			{
-					"Table": "fct_kantar_cmi_ar",
+					"Table": "fct_kantar_cmi_ar_denorm_ph_view",
 					"Product_Livewire": "fct_kantar_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_FD": "fct_kantar_cmi_ar",
 					"MBI_IDN_U_LIVEWIRE_HC": "fct_kantar_cmi_ar",
